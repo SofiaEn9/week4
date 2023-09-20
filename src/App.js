@@ -4,8 +4,8 @@ import Weather from "./Weather";
 
 export default function App() {
   return (
-    <div className="App">
-      <div className="contaner">
+    <div className="container">
+      <div className="App">
         <header>
           <Search />
           <Weather />
