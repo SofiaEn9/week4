@@ -10,6 +10,7 @@ export default function Search() {
             type="search"
             className="form-control rounded"
             placeholder="Type a city..."
+            id="search"
           />
         </div>
         <div className="col-3">
@@ -17,6 +18,7 @@ export default function Search() {
             type="submit"
             value="Submit"
             className="btn btn-primary w-100"
+            id="submit"
           />
         </div>
       </div>

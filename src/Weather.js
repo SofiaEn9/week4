@@ -30,7 +30,7 @@ export default function Weather() {
             <p>
               {weatherData.temperature}{" "}
               <span className="units">
-                <a href="#">ºC</a> |<a href="#">ºF</a>
+                <a href="/">ºC</a> |<a href="/">ºF</a>
               </span>
             </p>
           </div>
